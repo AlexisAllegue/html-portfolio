@@ -1,2 +1,2 @@
 # html-portfolio
-Person website hosting
+Personal website hosting
